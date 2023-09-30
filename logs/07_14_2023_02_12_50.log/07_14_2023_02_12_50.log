@@ -1,0 +1,6 @@
+[ 2023-07-14 02:13:17,599 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-07-14 02:13:40,178 ] 107 fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
